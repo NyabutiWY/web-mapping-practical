@@ -1,0 +1,29 @@
+#map {
+  height: 100vh;
+  margin: 0 auto;
+}
+
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #1a5d1a;
+}
+
+.toolbar {
+  border: 10px#1a5d1a;
+  background-color: rgb(172, 234, 214);
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.toolba h2 {
+  font: small-caps bold 1.2rem;
+  text-align: center;
+}
+
+p {
+  font-size: xx-small;
+}
